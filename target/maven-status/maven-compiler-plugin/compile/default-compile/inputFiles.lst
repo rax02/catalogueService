@@ -1,0 +1,6 @@
+/home/ravi/fasshonTest/glfasshon-catalogueservice/src/main/java/com/glfasshonstore/glfasshoncatalogueservice/constants/ProductCataogue.java
+/home/ravi/fasshonTest/glfasshon-catalogueservice/src/main/java/com/glfasshonstore/glfasshoncatalogueservice/dto/Product.java
+/home/ravi/fasshonTest/glfasshon-catalogueservice/src/main/java/com/glfasshonstore/glfasshoncatalogueservice/config/Config.java
+/home/ravi/fasshonTest/glfasshon-catalogueservice/src/main/java/com/glfasshonstore/glfasshoncatalogueservice/GlfasshonCatalogueserviceApplication.java
+/home/ravi/fasshonTest/glfasshon-catalogueservice/src/main/java/com/glfasshonstore/glfasshoncatalogueservice/controller/ProductController.java
+/home/ravi/fasshonTest/glfasshon-catalogueservice/src/main/java/com/glfasshonstore/glfasshoncatalogueservice/repository/ProductRepository.java
