@@ -1,0 +1,16 @@
+# docker-compose.yml
+
+services:
+  myapp:
+    build: .
+    environment:
+      - ELASTIC_HOST=172.18.0.2
+    ports:
+      - 8080:8080
+    networks:
+      - elastic
+
+networks:
+  elastic:
+    external:
+      name: docker-elk_elk

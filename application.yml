@@ -1,0 +1,11 @@
+server:
+  port: 80
+spring:
+  elasticsearch:
+    rest:
+      uris:
+        - ${ELASTIC_HOST:localhost}:9200
+      connection-timeout: 1s
+      read-timeout: 1m
+      password: changeme
+      username: elastic
